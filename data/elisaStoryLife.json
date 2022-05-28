@@ -1,0 +1,495 @@
+[
+    {
+        "source": "Elisa",
+        "relation": "birth place",
+        "target": "Lugo, Galicia",
+        "stage": "timeless",
+        "themes": [
+            "basic"
+        ]
+    },
+    {
+        "source": "Elisa",
+        "relation": "birth date",
+        "target": "18-05-1937",
+        "stage": "timeless",
+        "themes": [
+            "basic"
+        ]
+    },
+    {
+        "source": "Elisa",
+        "relation": "age",
+        "target": "82",
+        "stage": "timeless",
+        "themes": [
+            "basic"
+        ]
+    },
+    {
+        "source": "Elisa",
+        "relation": "father",
+        "target": "Juan",
+        "stage": "timeless",
+        "themes": [
+            "basic"
+        ]
+    },
+    {
+        "source": "Elisa",
+        "relation": "mother",
+        "target": "Eva",
+        "stage": "timeless",
+        "themes": [
+            "basic"
+        ]
+    },
+    {
+        "source": "Juan",
+        "relation": "occupation",
+        "target": "labrador",
+        "stage": "timeless",
+        "themes": [
+            "family",
+            "parents"
+        ]
+    },
+    {
+        "source": "Juan",
+        "relation": "wife",
+        "target": "Eva",
+        "stage": "timeless",
+        "themes": [
+            "family",
+            "parents"
+        ]
+    },
+    {
+        "source": "Juan",
+        "relation": "birth place",
+        "target": "Santander",
+        "stage": "timeless",
+        "themes": [
+            "family",
+            "parents"
+        ]
+    },
+    {
+        "source": "Juan",
+        "relation": "birth date",
+        "target": "25-11-1911",
+        "stage": "timeless",
+        "themes": [
+            "family",
+            "parents"
+        ]
+    },
+    {
+        "source": "Eva",
+        "relation": "birth place",
+        "target": "Barcelona",
+        "stage": "timeless",
+        "themes": [
+            "family",
+            "parents"
+        ]
+    },
+    {
+        "source": "Eva",
+        "relation": "birth date",
+        "target": "12-01-1912",
+        "stage": "timeless",
+        "themes": [
+            "family",
+            "parents"
+        ]
+    },
+    {
+        "source": "Eva",
+        "relation": "occupation",
+        "target": "seamstress",
+        "stage": "timeless",
+        "themes": [
+            "family",
+            "parents"
+        ]
+    },
+    {
+        "source": "Elisa",
+        "relation": "part of",
+        "target": "large family",
+        "stage": "timeless",
+        "themes": [
+            "family",
+            "siblings"
+        ]
+    },
+    {
+        "source": "Elisa",
+        "relation": "number of sisters",
+        "target": "2",
+        "stage": "timeless",
+        "themes": [
+            "family",
+            "siblings"
+        ]
+    },
+    {
+        "source": "Elisa",
+        "relation": "number of brothers",
+        "target": "6",
+        "stage": "timeless",
+        "themes": [
+            "family",
+            "siblings"
+        ]
+    },
+    {
+        "source": "Elisa",
+        "relation": "the youngest of",
+        "target": "her siblings",
+        "stage": "timeless",
+        "themes": [
+            "family",
+            "siblings"
+        ]
+    },
+    {
+        "source": "Elisa",
+        "relation": "educated at",
+        "target": "La Salle's school",
+        "stage": "late chilhood",
+        "themes": [
+            "school"
+        ]
+    },
+    {
+        "source": "La Salle's school",
+        "relation": "was",
+        "target": "all-girl catholic",
+        "stage": "late chilhood",
+        "themes": [
+            "school"
+        ]
+    },
+    {
+        "source": "Elisa",
+        "relation": "favorite subjects",
+        "target": "history and drawing",
+        "stage": "late chilhood",
+        "themes": [
+            "school"
+        ]
+    },
+    {
+        "source": "Elisa",
+        "relation": "best friend",
+        "target": "Veronica",
+        "stage": "late chilhood",
+        "themes": [
+            "friends"
+        ]
+    },
+    {
+        "source": "Elisa",
+        "relation": "best friend",
+        "target": "Luis",
+        "stage": "late chilhood",
+        "themes": [
+            "friends"
+        ]
+    },
+    {
+        "source": "Elisa",
+        "relation": "favorite games",
+        "target": "hide-and-seek",
+        "stage": "late chilhood",
+        "themes": [
+            "friends"
+        ]
+    },
+    {
+        "source": "Elisa",
+        "relation": "go swimming with",
+        "target": "friends",
+        "stage": "late chilhood",
+        "themes": [
+            "friends"
+        ]
+    },
+    {
+        "source": "Elisa",
+        "relation": "went to",
+        "target": "new high school",
+        "stage": "adolescence",
+        "themes": [
+            "school"
+        ]
+    },
+    {
+        "source": "New high school",
+        "relation": "name",
+        "target": "Casas School",
+        "stage": "adolescence",
+        "themes": [
+            "school"
+        ]
+    },
+    {
+        "source": "Elisa",
+        "relation": "met",
+        "target": "new friends",
+        "stage": "adolescence",
+        "themes": [
+            "school"
+        ]
+    },
+    {
+        "source": "Elisa",
+        "relation": "worked at",
+        "target": "workshop sewing",
+        "stage": "adolescence",
+        "themes": [
+            "work"
+        ]
+    },
+    {
+        "source": "Elisa",
+        "relation": "sewed",
+        "target": "pretty dresses",
+        "stage": "adolescence",
+        "themes": [
+            "work"
+        ]
+    },
+    {
+        "source": "Elisa",
+        "relation": "liked",
+        "target": "her work",
+        "stage": "adolescence",
+        "themes": [
+            "work"
+        ]
+    },
+    {
+        "source": "Elisa",
+        "relation": "help her mother with",
+        "target": "housework",
+        "stage": "adolescence",
+        "themes": [
+            "family"
+        ]
+    },
+    {
+        "source": "Elisa",
+        "relation": "prepare",
+        "target": "bread every day",
+        "stage": "adolescence",
+        "themes": [
+            "family"
+        ]
+    },
+    {
+        "source": "Elisa",
+        "relation": "bring bread",
+        "target": "to customers",
+        "stage": "adolescence",
+        "themes": [
+            "family"
+        ]
+    },
+    {
+        "source": "Elisa",
+        "relation": "educated at",
+        "target": "Santiago's university",
+        "stage": "early adulthood",
+        "themes": [
+            "university"
+        ]
+    },
+    {
+        "source": "Elisa",
+        "relation": "career",
+        "target": "education",
+        "stage": "early adulthood",
+        "themes": [
+            "university"
+        ]
+    },
+    {
+        "source": "Elisa",
+        "relation": "meet new friends",
+        "target": "at university",
+        "stage": "early adulthood",
+        "themes": [
+            "university"
+        ]
+    },
+    {
+        "source": "Elisa",
+        "relation": "best friend",
+        "target": "Maria",
+        "stage": "early adulthood",
+        "themes": [
+            "university"
+        ]
+    },
+    {
+        "source": "Elisa",
+        "relation": "best friend",
+        "target": "Laura",
+        "stage": "early adulthood",
+        "themes": [
+            "university"
+        ]
+    },
+    {
+        "source": "Elisa",
+        "relation": "start new job",
+        "target": "at 20 years old",
+        "stage": "early adulthood",
+        "themes": [
+            "work"
+        ]
+    },
+    {
+        "source": "Elisa",
+        "relation": "worked in",
+        "target": "textile factory",
+        "stage": "early adulthood",
+        "themes": [
+            "work"
+        ]
+    },
+    {
+        "source": "textile factory",
+        "relation": "location",
+        "target": "Burgos",
+        "stage": "early adulthood",
+        "themes": [
+            "work"
+        ]
+    },
+    {
+        "source": "Elisa",
+        "relation": "meet",
+        "target": "Sergio",
+        "stage": "early adulthood",
+        "themes": [
+            "love"
+        ]
+    },
+    {
+        "source": "Sergio",
+        "relation": "ask Elisa",
+        "target": "to dance",
+        "stage": "early adulthood",
+        "themes": [
+            "love"
+        ]
+    },
+    {
+        "source": "Elisa",
+        "relation": "fall in love with",
+        "target": "Sergio",
+        "stage": "early adulthood",
+        "themes": [
+            "love"
+        ]
+    },
+    {
+        "source": "Elisa",
+        "relation": "started dating",
+        "target": "Sergio",
+        "stage": "early adulthood",
+        "themes": [
+            "love"
+        ]
+    },
+    {
+        "source": "Elisa",
+        "relation": "state of life",
+        "target": "adulthood",
+        "stage": "late adulthood",
+        "themes": [
+            "work"
+        ]
+    },
+    {
+        "source": "Elisa",
+        "relation": "bought",
+        "target": "place in Santander",
+        "stage": "late adulthood",
+        "themes": [
+            "work"
+        ]
+    },
+    {
+        "source": "Elisa",
+        "relation": "set up a",
+        "target": "sewing shop",
+        "stage": "late adulthood",
+        "themes": [
+            "work"
+        ]
+    },
+    {
+        "source": "Elisa",
+        "relation": "worked",
+        "target": "hard",
+        "stage": "late adulthood",
+        "themes": [
+            "work"
+        ]
+    },
+    {
+        "source": "Elisa",
+        "relation": "marry",
+        "target": "Sergio",
+        "stage": "late adulthood",
+        "themes": [
+            "family",
+            "love"
+        ]
+    },
+    {
+        "source": "Elisa",
+        "relation": "wedding place",
+        "target": "beautiful church",
+        "stage": "late adulthood",
+        "themes": [
+            "family",
+            "love"
+        ]
+    },
+    {
+        "source": "Elisa and Sergio",
+        "relation": "had",
+        "target": "2 children",
+        "stage": "late adulthood",
+        "themes": [
+            "family",
+            "love"
+        ]
+    },
+    {
+        "source": "Elisa and Sergio",
+        "relation": "daughter",
+        "target": "Silvia",
+        "stage": "late adulthood",
+        "themes": [
+            "family",
+            "love"
+        ]
+    },
+    {
+        "source": "Elisa  and Sergio",
+        "relation": "son",
+        "target": "Julio",
+        "stage": "late adulthood",
+        "themes": [
+            "family",
+            "love"
+        ]
+    }
+]
